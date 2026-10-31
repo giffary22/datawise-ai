@@ -1,0 +1,8 @@
+{
+  "name": "DataWise AI",
+  "description": "Smart Nigerian Mobile Data Subscription & Budget Tracker powered by Google Gemma AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
